@@ -1,0 +1,5 @@
+{
+  "name": "SAHAAY",
+  "description": "Har Samasya ka Digital Sahaara - A platform to help Indian citizens find step-by-step solutions to common problems in simple language.",
+  "requestFramePermissions": ["geolocation"]
+}
